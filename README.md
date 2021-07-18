@@ -47,7 +47,7 @@ I have used **Maven 3.6.3** as the build and code management system. Maven an op
 	 * multiple instances of tomcat can be deployed with a load balancer
 	 * or the application can be built on cloud using AWS Apigateway, AWS lambda and cloudwatch.
 	 
-* Docker Image : I am not a docker pro but I have tried to build an image for my application. Below are the steps to run
+* **Docker Image** : Below are the steps to run
 	* Prerequisites : Install Docker
 	* docker image location : https://hub.docker.com/r/divyatrehan/romanapp
 	* docker pull divyatrehan/romanapp
